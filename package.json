@@ -4,7 +4,8 @@
   "description": "Nodejs PostgreSQL API",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "strat":"node server.js/index.js"
   },
   "keywords": [
     "nodejs",
